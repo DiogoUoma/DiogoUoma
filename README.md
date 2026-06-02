@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**DiogoUoma/DiogoUoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack com foco em Java e Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente aprofundando meus conhecimentos em desenvolvimento backend, arquitetura de software, Docker, APIs REST, mensageria e computação em nuvem.
+
+🛠️ Tecnologias
+Backend
+Java
+Spring Boot
+Spring Security
+JPA / Hibernate
+REST APIs
+PostgreSQL
+MongoDB
+Frontend
+React
+TypeScript
+JavaScript
+HTML
+CSS
+Tailwind CSS
+Ferramentas
+Docker
+Git
+GitHub
+Postman
+IntelliJ IDEA
+VS Code
+📚 Atualmente estudando
+Microsserviços
+Kafka e Mensageria
+CI/CD
+Docker
+Cloud Computing
+Boas práticas de desenvolvimento
